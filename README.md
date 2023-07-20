@@ -11,7 +11,7 @@ This application was created to help developers create simple logos using CLI an
 
 ## Application Functionality Walkthrough
 
-![Video Walkthrough](https://youtu.be/97fRoxFEOK0)
+[Video Walkthrough](https://youtu.be/97fRoxFEOK0)
 
 ## Screenshots
 
